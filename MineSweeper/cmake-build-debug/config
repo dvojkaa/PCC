@@ -1,0 +1,11 @@
+x = 8
+y = 8
+d = 10
+
+Board(x, y) represents the dimensions of the board you will play on.
+
+I recommend having a difficulty level smaller than x * y,
+otherwise, it may take a long time to load your game board, or it might result in an error.
+The difficulty level, the smaller it is, the harder the game.
+
+Please, if you modify this file, write it in this format (c = 5).
